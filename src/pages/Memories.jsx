@@ -14,10 +14,6 @@ const Memories = ({ isIOS }) => {
         transition={{ duration: 0.5 }}
         className="max-w-5xl w-full text-center"
       >
-        <h1 className="text-4xl font-bold text-pink-600 mb-8">
-          Kenangan Indah Kita
-        </h1>
-
         <motion.div whileHover={{ scale: isIOS ? 1 : 1.02 }} className="mb-8">
           <img
             src={fotoKenangan}
@@ -34,7 +30,7 @@ const Memories = ({ isIOS }) => {
           className="bg-white bg-opacity-90 backdrop-blur-sm p-6 rounded-xl shadow-lg mb-8 border border-pink-100"
         >
           <h2 className="text-2xl font-semibold text-rose-600 mb-4">
-            Resolusi 24 Tahun: Upgrade Diri Biar Leni Tetap Bangga
+            Permintaan maafku di hari ulang tahunmu
           </h2>
           <div className="text-left text-pink-800 space-y-4 leading-relaxed">
             <motion.p
@@ -42,9 +38,7 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 0.6 }}
             >
-              1. <strong>Lebih sayang sama diri sendiri.</strong>
-              Soalnya kalo nggak disayang dulu, nanti Leni rebutan sama dirimu
-              sendiri.
+              💌 Maaf yaa sayang...
             </motion.p>
 
             <motion.p
@@ -52,8 +46,10 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.2 }}
             >
-              2. <strong>Ngejalanin hidup lebih tenang.</strong>
-              Biar hati adem, nggak gampang meledak kayak popcorn.
+              Maaf 3 hari terakhir ini aku ngediemin kamu, aku cuman pengen
+              nenangin diri aku aja supaya emosi aku stabil lagi kaya sekarang,
+              untuk ke depan nya aku usahain ga bakal begitu lagi ya sekalipun
+              aku pengen sendiri, aku bakal tetep ngabarin kamu kok nanti.
             </motion.p>
 
             <motion.p
@@ -61,8 +57,12 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.8 }}
             >
-              3. <strong>Stabil secara finansial.</strong>
-              Target: bisa transfer 5 juta/bulan ke Leni tanpa pingsan.
+              Maaf kalau usaha aku masih kurang di mata kamu, aku selalu
+              ngelakuin yang terbaik buat kamu kok, maaf kalau aku suka kurang
+              ngertiin kamu, kurang memperlakukan kamu sesuai sama kemauan kamu,
+              maaf kalau aku suka nge buat kamu nangis, dan maaf untuk semua
+              permasalahan yang pernah kita hadapi, tetapi dari semua itu aku
+              usahain akan terus belajar menjadi lebih baik buat kamu 💕
             </motion.p>
 
             <motion.p
@@ -70,19 +70,7 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 2.4 }}
             >
-              4. <strong>Menjaga pola hidup sehat.</strong>
-              Biar panjang umur—kan Leni maunya ngambek sama dirimu terus, bukan
-              sama orang lain.
-            </motion.p>
-
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 3 }}
-            >
-              5. <strong>Menjadikan Leni tujuan utama.</strong>
-              Pokoknya kalau tiba-tiba belok haluan, semoga jodohnya orang yang
-              kalau difoto selalu blur.
+              Maaf dan makasih buat semuanya sayang 💜🖤
             </motion.p>
           </div>
         </motion.div>
@@ -181,8 +169,7 @@ const Memories = ({ isIOS }) => {
             transition={{ delay: 2.2 }}
             className="text-center text-pink-600 mt-6 italic text-lg"
           >
-            🌸 Bunga ini sebagai hadiah dariku sayang... Tolong
-            diterima ya 🥺❤️
+            🌸 Bunga ini sebagai hadiah dariku sayang... Tolong diterima ya 🥺❤️
           </motion.p>
         )}
       </motion.div>
