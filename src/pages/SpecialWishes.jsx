@@ -6,14 +6,15 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Sayangggg, today is your birthday dayy🎉, so happy birthday day sayangg🥳, hari ini adalah hari lahir kamu🤩, dan hari ini adalah hari kamu bertambah usia✨, semoga dengan nya kamu bertambah usia, kamu menjadi anak yang Sholehah 🧕, yang berbakti kepada orang tua🙂‍↕️, jadi kakak yang hebat buat Refan🫡, jadi adik yang penyayang buat Abang😚, di lancarin rezeki nya🌻, di sehatkan kan jiwa dan raga nya🌼, di lancarkan seluruh urusan nya📋,di kasih perlindungan sama Allah dari Bahaya dunia serta Bahaya akhirat 🛡️, selalu bahagia 🥰, dan terus jadi diri kamu sendiri ya🍯🐝
+Sayangku 💖, hari ini adalah hari yang paling indah karena kamu lahir ke dunia. Aku berdoa semoga kamu selalu dalam lindungan Tuhan 🙏, diberi kesehatan, kekuatan, dan kebahagiaan tanpa akhir.
 
-Terus berkembang menjadi lebih baik ya sayangkuuu💗, fokus sama impian kamu🌌, setiap impian kamu semoga menjadi kenyataan satu per satu 🌠, setiap langkah kamu di permudah sama allah 🕌, bukan hanya umur yang berkembang, tapi pemikiran dan prilaku kamu juga haru terus berkembang ya💬, menjadi wanita yang rendah hati 💟, kurangin kebiasaan jelek nya ❎, jangan terlalu fokus sama kelebihan orang lain terkadang Kupu-kupu tidak bisa melihat keindahan sayapnya sendiri, tetapi orang lain bisa🦋. Orang lain itu aku🫶, aku percaya sama kamu, kamu punya potensial sayangg, jadi jangan ngeremehin diri kamu sendiri ya, kalau kamu sendiri aja ga percaya sama diri kamu sendiri gimana kamu bisa berhasil?so mulai hari ini selalu percaya sama diri kamu sendiri ya💜, I’ll be here to support you 😊. Setiap kamu ngalamin  kegagalan jangan lupa terus bangkit dan belajar dari kesalahan 💫
+Aku tahu hidup tidak selalu mudah, tapi aku ingin kamu tahu bahwa kamu tidak pernah sendiri. Aku akan selalu ada untuk mendukungmu, menyemangatimu, dan menjadi tempatmu bersandar saat kamu lelah 🤍.
 
-Makasih juga karna udah bertahan sama aku🤧, jadi pengingat aku 🔊, selalu sabar menghadapi aku☺️, setelah aku mengenal kamu aku jadi banyak belajar tentang memahami, memperlakukan dan lain lain, aku ga janji tapi aku akan ngelakuin yang terbaik buat kamu 🙇,  jaga hubungan ini  yaa, kita lakuin yang terbaik buat kebaikan kita sendiri ya 💞
+Semoga setiap langkahmu penuh berkah, dan setiap impianmu perlahan menjadi kenyataan ✨. Kamu punya hati yang tulus, senyum yang menenangkan, dan jiwa yang cantik luar dalam. Dunia butuh lebih banyak orang sepertimu 🌷.
 
-I love you more, and I will always love you from here 💜🩵🖤🤍
+Aku percaya sepenuhnya padamu. Kamu kuat, hebat, dan pantas mendapatkan yang terbaik 💪. Jangan pernah ragukan dirimu sendiri, karena kamu adalah cahaya dalam hidup banyak orang — termasuk hidupku 💞.
 
+Jika suatu hari kamu merasa ragu atau takut, ingatlah bahwa aku selalu mendoakanmu agar dikelilingi orang-orang baik, rezeki yang cukup, dan cinta yang tulus. Termasuk cintaku padamu ❤️.
   `;
 
   return (
@@ -83,7 +84,7 @@ I love you more, and I will always love you from here 💜🩵🖤🤍
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Reihani Nayla Mumtazah (iskandar) 💖
+                  Ameliaputri 💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                   Hanya kamu di hatiku, sayang 🥹

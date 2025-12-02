@@ -30,47 +30,33 @@ const Memories = ({ isIOS }) => {
           className="bg-white bg-opacity-90 backdrop-blur-sm p-6 rounded-xl shadow-lg mb-8 border border-pink-100"
         >
           <h2 className="text-2xl font-semibold text-rose-600 mb-4">
-            Permintaan maafku di hari ulang tahunmu
+            Permintaan Maafku di Hari Ulang Tahunmu
           </h2>
+
           <div className="text-left text-pink-800 space-y-4 leading-relaxed">
+            <p>
+              💌 <strong>Maaf ya, Sayang...</strong>
+            </p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 0.6 }}
             >
-              💌 Maaf yaa sayang...
+              Maaf kalau selama ini aku pernah cuek 😞, terlalu sibuk 😔, atau kurang peka sama perasaanmu 😢. Maaf kalau kadang aku bikin kamu kecewa, salah paham, atau merasa sendiri 😓. Aku gak pernah berniat nyakitin kamu 🥺. Semua itu karena aku manusia biasa yang masih belajar mencintaimu dengan lebih baik 🤍.
             </motion.p>
-
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.2 }}
             >
-              Maaf 3 hari terakhir ini aku ngediemin kamu, aku cuman pengen
-              nenangin diri aku aja supaya emosi aku stabil lagi kaya sekarang,
-              untuk ke depan nya aku usahain ga bakal begitu lagi ya sekalipun
-              aku pengen sendiri, aku bakal tetep ngabarin kamu kok nanti.
+              Terima kasih sudah sabar, sudah tetap di sini 🫶. Aku akan terus belajar jadi lebih baik lagi... untuk kamu 💗
             </motion.p>
-
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.8 }}
             >
-              Maaf kalau usaha aku masih kurang di mata kamu, aku selalu
-              ngelakuin yang terbaik buat kamu kok, maaf kalau aku suka kurang
-              ngertiin kamu, kurang memperlakukan kamu sesuai sama kemauan kamu,
-              maaf kalau aku suka nge buat kamu nangis, dan maaf untuk semua
-              permasalahan yang pernah kita hadapi, tetapi dari semua itu aku
-              usahain akan terus belajar menjadi lebih baik buat kamu 💕
-            </motion.p>
-
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 2.4 }}
-            >
-              Maaf dan makasih buat semuanya sayang 💜🖤
+              🙏🏻 Maaf ya, dan makasih karena kamu tetap percaya sama aku.
             </motion.p>
           </div>
         </motion.div>
